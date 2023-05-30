@@ -1,0 +1,58 @@
+﻿@model IEnumerable<DSE.Model.ViewModel.MonthWisePickPointAnalysisBeforeDecember>
+
+@{
+    ViewData["Title"] = "YearWiseReportingSchema";
+}
+
+<h1>YearWiseReportingSchema</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ThisMonth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThisMonthShare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NextMonth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NextMonthShare)
+            </th>
+            <th>
+                Profit
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Year)
+            </th>
+         
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThisMonth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThisMonthShare)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NextMonth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NextMonthShare)
+            </td>
+            <td>
+                @string.Format("{0}",(item.NextMonthShare- item.ThisMonthShare))
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

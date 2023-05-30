@@ -1,0 +1,17 @@
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\bin\Debug\net5.0\DSE.Service.deps.json
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\bin\Debug\net5.0\DSE.Service.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\bin\Debug\net5.0\ref\DSE.Service.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\bin\Debug\net5.0\DSE.Service.pdb
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\bin\Debug\net5.0\DSE.Repository.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\bin\Debug\net5.0\Model.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\bin\Debug\net5.0\DSE.Repository.pdb
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\bin\Debug\net5.0\Model.pdb
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\DSE.Service.csprojAssemblyReference.cache
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\DSE.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\DSE.Service.AssemblyInfoInputs.cache
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\DSE.Service.AssemblyInfo.cs
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\DSE.Service.csproj.CoreCompileInputs.cache
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\DSE.Service.csproj.CopyComplete
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\DSE.Service.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\ref\DSE.Service.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\DSE.Service\obj\Debug\net5.0\DSE.Service.pdb

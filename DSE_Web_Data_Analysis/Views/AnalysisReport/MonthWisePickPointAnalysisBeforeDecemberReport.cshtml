@@ -1,0 +1,62 @@
+﻿@model IEnumerable<DSE.Model.ViewModel.MonthWisePickPointAnalysisBeforeDecemberSchema>
+
+@{
+    ViewData["Title"] = "MonthWisePickPointAnalysisBeforeDecemberReport";
+}
+
+<h1>MonthWisePickPointAnalysisBeforeDecemberReport</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SectorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Url)
+            </th>
+            <th>
+                Year Count
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IncreaseRate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AvgShare)
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SectorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CompanyName)
+            </td>
+            <td>
+                <a href="@string.Format("https://dsebd.org/displayCompany.php?name={0}",item.CompanyName)"> Goto DSE </a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MonthCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncreaseRate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AvgShare)
+            </td>
+            <td>
+                <a href="@string.Format("https://localhost:44318/AnalysisReport/YearWise/{0}/{1}",item.SectorName,item.CompanyName)"> Details </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

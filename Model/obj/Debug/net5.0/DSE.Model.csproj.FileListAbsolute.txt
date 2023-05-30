@@ -1,0 +1,12 @@
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\bin\Debug\net5.0\DSE.Model.deps.json
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\bin\Debug\net5.0\DSE.Model.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\bin\Debug\net5.0\ref\DSE.Model.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\bin\Debug\net5.0\DSE.Model.pdb
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\obj\Debug\net5.0\DSE.Model.csprojAssemblyReference.cache
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\obj\Debug\net5.0\DSE.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\obj\Debug\net5.0\DSE.Model.AssemblyInfoInputs.cache
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\obj\Debug\net5.0\DSE.Model.AssemblyInfo.cs
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\obj\Debug\net5.0\DSE.Model.csproj.CoreCompileInputs.cache
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\obj\Debug\net5.0\DSE.Model.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\obj\Debug\net5.0\ref\DSE.Model.dll
+C:\Users\BS483\source\repos\DSE_Web_Data_Analysis\Model\obj\Debug\net5.0\DSE.Model.pdb
